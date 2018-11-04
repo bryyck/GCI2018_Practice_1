@@ -1,0 +1,8 @@
+oath = "GCI is great"
+
+for goo in range(10):
+	print(oath) 
+  
+name = raw_input('Enter your name: ')
+print ("Hello %s, please to meet you! " % name);
+print ("Did you know that your name backwards is " + name[::-1])
